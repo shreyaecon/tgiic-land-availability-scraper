@@ -45,7 +45,7 @@ This will save the scraped data to `output.json`.
 - **Hierarchical scraping**: Navigates through 4 levels of nested pages
 - **Metadata preservation**: Carries forward zone and district information to plot-level data
 - **Comprehensive data**: Captures 25+ attributes per vacant plot
-- **Clean structure**: Well-commented code following Scrapy best practices
+- **Clean structure**: Well-commented code  
 
 ## Output Structure
 
